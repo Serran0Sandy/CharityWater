@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>charity: water - Landing Page</title>
+  <title>#charity: water
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
