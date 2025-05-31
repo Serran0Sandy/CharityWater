@@ -12,7 +12,7 @@
   <div class="container">
     <div class="image-bg">
       <!-- Replace the src below with your actual image path -->
-      <img src="child-water.jpg" alt="Child catching clean water in hands">
+      <img src="ChatGPT Image 1.jpg" alt="Child catching clean water in hands">
       <div class="content">
         <div class="logo">
           <img src="charity-water-logo.png" alt="charity: water logo">
