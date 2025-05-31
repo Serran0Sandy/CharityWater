@@ -15,7 +15,7 @@
       <img src="ChatGPT Image 1.jpg" alt="Child catching clean water in hands">
       <div class="content">
         <div class="logo">
-          <img src="charity-water-logo.png" alt="charity: water logo">
+          <img src="CWLogo.jpg" alt="charity: water logo">
         </div>
         <div class="headline">
           <h1>Small Drops Together<br>Become a Life-Giving Stream</h1>
