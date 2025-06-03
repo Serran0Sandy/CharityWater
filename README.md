@@ -22,9 +22,9 @@
             It starts with you.
           </p>
           <p class="cta">
-            <span class="water-emoji">💧</span> Be the drop. Give clean water.
+            <span 
           </p>
-          <a href="#" class="cta-button">class="water-emoji">💧</span> Be the drop. Give clean water.</a>
+          <a href="#" class="cta-button">💧</span> Be the drop. Give clean water.</a>
         </div>
       </div>
     </div>
