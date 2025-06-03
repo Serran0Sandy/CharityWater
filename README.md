@@ -3,16 +3,14 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  Charity: Water
+  <title>Charity: Water</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div class="yellow-border left"></div>
-  <div class="yellow-border right"></div>
   <div class="container">
     <div class="image-bg">
       <!-- Replace the src below with your actual image path -->
-      <img src="ChatGPT Image 1.jpg" alt="Child catching clean water in hands">
+      <img src="ChatGPT Image 1.jpg" alt="Child catching clean water in hands" class="main-image">
       <div class="content">
         <div class="logo">
           <img src="CWLogo.jpg" alt="charity: water logo">
@@ -26,6 +24,7 @@
           <p class="cta">
             <span class="water-emoji">💧</span> Be the drop. Give clean water.
           </p>
+          <a href="#" class="cta-button">Donate Now</a>
         </div>
       </div>
     </div>
