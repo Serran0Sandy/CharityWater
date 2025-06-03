@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>CWLogo.jpg</title>
+  <title>Charity:Water</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -24,7 +24,7 @@
           <p class="cta">
             <span class="water-emoji">💧</span> Be the drop. Give clean water.
           </p>
-          <a href="#" class="cta-button">Donate Now</a>
+          <a href="#" class="cta-button">class="water-emoji">💧</span> Be the drop. Give clean water.</a>
         </div>
       </div>
     </div>
