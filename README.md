@@ -25,9 +25,15 @@
             <span 
           </p>
           <a href="#" class="cta-button">💧Be the drop. Give clean water.</a>
+   <!-- Drop Animation Container -->
+          <div class="drop-animation">
+            <svg class="drop" viewBox="0 0 32 32" width="36" height="36">
+              <ellipse cx="16" cy="24" rx="8" ry="6" fill="#53C1F9" opacity="0.15"/>
+              <path d="M16 3C11 10 8 15 8 19a8 8 0 0 0 16 0c0-4-3-9-8-16z" fill="#53C1F9"/>
+              <ellipse class="splash" cx="16" cy="28" rx="6" ry="2.2" fill="#53C1F9" opacity="0"/>
+            </svg>
+          </div>
         </div>
       </div>
     </div>
   </div>
-</body>
-</html>
