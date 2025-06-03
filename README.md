@@ -24,7 +24,7 @@
           <p class="cta">
             <span 
           </p>
-          <a href="#" class="cta-button">💧</span> Be the drop. Give clean water.</a>
+          <a href="#" class="cta-button">💧Be the drop. Give clean water.</a>
         </div>
       </div>
     </div>
